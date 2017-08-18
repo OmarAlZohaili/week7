@@ -1,0 +1,24 @@
+<select (change)="getFoods()" class="form-control" [(ngModel)]='filterVal' placeholder='Fruit'>
+   <option *ngFor="let category of filterArray" [value]="category">
+     {{category}}
+   </option>
+</select>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Available</th>
+            <th>Category</th>
+            <th>Picture</th>
+        </tr>
+    </thead>
+    <tr *ngFor="let productItem of productItems">
+        <td>{{productItem.name}}</td>
+        <td>{{productItem.price}}</td>
+        <td>{{productItem.available}}</td>
+        <td>{{productItem.category}}</td>
+        <td><img [src]="productItem.picture" /></td>
+    </tr>
+</table>

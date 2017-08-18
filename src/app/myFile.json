@@ -1,0 +1,85 @@
+[{
+        "name": "Iphone",
+        "price": 9876,
+        "available": 999999,
+        "category": "premium",
+        "picture": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone7plus/iphone7plus-colors.jpg"
+    },
+    {
+        "name": "dell laptop",
+        "price": 799,
+        "available": 34,
+        "category": "New",
+        "picture": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger/public/field/image/2016/12/notebook-xps-13-polaris-pdp-design-3.png?itok=XIpewbmK"
+    },
+    {
+        "name": "hp laptop",
+        "price": 6,
+        "available": 1,
+        "category": "Sale",
+        "picture": "http://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c04818026.png"
+    },
+    {
+        "name": "macbook",
+        "price": 2000,
+        "available": 69,
+        "category": "New",
+        "picture": "https://store.storeimages.cdn-apple.com/4974/as-images.apple.com/is/image/AppleInc/aos/published/images/m/ac/macbook/default/macbook-default-image-201604?wid=1200&hei=630&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=1493227953329"
+    },
+    {
+        "name": "gaming pc",
+        "price": 3000,
+        "available": 19,
+        "category": "Sale",
+        "picture": "https://www.cyberpowerpc.com/images/cs/kiros650/blkorg_220.png"
+    },
+    {
+        "name": "galexy s7",
+        "price": 900,
+        "available": 211,
+        "category": "New",
+        "picture": "http://s7d2.scene7.com/is/image/SamsungUS/Pdpkeyfeature-sm-g930pzdaspr-600x600-C1-062016?$product-details-jpg$"
+    },
+    {
+        "name": "htc",
+        "price": 400,
+        "available": 15,
+        "category": "Sale",
+        "picture": "http://www.htc.com/managed-assets/shared/desktop/smartphones/buy/m9-gray.jpg"
+    },
+    {
+        "name": "asus laptop",
+        "price": 1000,
+        "available": 35,
+        "category": "New",
+        "picture": "https://cukusa.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/g/l/gl753ve-ds74_main_900.jpg"
+    },
+    {
+        "name": "samsung screen",
+        "price": 299,
+        "available": 93,
+        "category": "Sale",
+        "picture": "http://www.samsung.com/za/consumer-images/gnb-images/GNB_IT_EN.jpg"
+    },
+    {
+        "name": "desktop",
+        "price": 100,
+        "available": 28,
+        "category": "New",
+        "picture": "https://pisces.bbystatic.com/BestBuy_US/store/ee/2017/com/pol/pol-EVN-22065-170226.jpg;maxHeight=309;maxWidth=457"
+    },
+    {
+        "name": "keyboard",
+        "price": 10,
+        "available": 8,
+        "category": "Sale",
+        "picture": "https://cdn.shopify.com/s/files/1/0251/3278/products/KBUSA_WB_grande.png?v=1439410164"
+    },
+    {
+        "name": "bottle of water made by apple",
+        "price": 99999999999,
+        "available": 1,
+        "category": "premium",
+        "picture": "https://qph.ec.quoracdn.net/main-qimg-f1018bca940f1dc6efe2e76f0042c9cb-c"
+    }
+]
